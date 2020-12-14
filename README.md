@@ -45,7 +45,7 @@ There is no database needed, as the project is using an embedded one. To modify 
 
 ## Authors
 
-* **Camille Lescalliez** - *Initial work* - [Github Profile](https://github.com/Sebajun)
+* **Camille** - *Initial work* - [Github Profile](https://github.com/Sebajun)
 
 ## License
 
